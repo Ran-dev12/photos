@@ -1,0 +1,6 @@
+{
+  "name": "Google Photos to iCloud Transfer",
+  "description": "A clean, efficient macOS utility to transfer Google Photos libraries to Apple iCloud Photos with background sync and power management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
